@@ -72,6 +72,7 @@ void game_of_life::sljedeca_generacija()
 
 void game_of_life::iscrtaj()
 {
+	system("CLS");
 	for (unsigned i = 0; i < REDAKA; i++)
 	{
 		for (unsigned j = 0; j < STUPACA; j++)
