@@ -1,0 +1,2 @@
+## Game of Life - College project
+A C++ take on Conway’s Game of Life, the legendary cellular automaton dreamed up by John Horton Conway. It’s a zero-player experience—once you lay out the first arrangement of cells, the program runs itself without any extra input. You simply set the starting pattern and sit back to watch the little digital organisms spring to life or vanish. For the more adventurous, you can even craft custom formations that showcase fascinating behaviors.
